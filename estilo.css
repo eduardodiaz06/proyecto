@@ -64,3 +64,7 @@ p {
 .col-form-label{
     color: whitesmoke;
 }
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.288);
+}
