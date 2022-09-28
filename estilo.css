@@ -1,0 +1,27 @@
+h1{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+
+body {
+    background-image: url(fondo.jpg);
+    width: 100%;
+}
+
+p{
+    color: whitesmoke;
+}
+
+.navbar a{
+    color: whitesmoke;
+}
+
+.navbar a{
+    transition: 0.5s;
+}
+
+.navbar a:hover{
+    color: red;
+}
