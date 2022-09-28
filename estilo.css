@@ -10,6 +10,7 @@ h5 {
 body {
     background-image: url(fondo.jpg);
     width: 100%;
+    padding-top: 100px;
 }
 
 
@@ -62,11 +63,4 @@ p {
 
 .col-form-label{
     color: whitesmoke;
-}
-
-.navbar{
-    position: fixed;
-    z-index: 999999;
-   
-
 }
