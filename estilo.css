@@ -2,7 +2,7 @@ h1,
 h2,
 h3,
 h4,
-h5{
+h5 {
     color: whitesmoke;
 }
 
@@ -12,31 +12,61 @@ body {
     width: 100%;
 }
 
-p{
+
+p {
     color: whitesmoke;
 }
 
-.navbar a{
+.navbar a {
     color: whitesmoke;
 }
 
-.navbar a{
+.navbar a {
     transition: 0.5s;
 }
 
-.navbar a:hover{
+.navbar a:hover {
     color: red;
 }
 
 
-.card-body img{
+.card-body img {
     transition: 0.2s;
 }
+
 .card-body img:hover {
-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
-.card{
+.card {
     background-color: black;
 }
 
+.bi-facebook {
+    font-size: 30px;
+    color: blue;
+    margin: 10px;
+}
+
+.bi-instagram {
+    font-size: 30px;
+    color: rgb(169, 26, 212);
+    margin: 10px;
+}
+
+.bi-twitter {
+    font-size: 30px;
+    color: rgb(12, 146, 163);
+    margin: 10px;
+}
+
+.col-form-label{
+    color: whitesmoke;
+}
+
+.navbar{
+    position: fixed;
+    z-index: 999999;
+   
+
+}
