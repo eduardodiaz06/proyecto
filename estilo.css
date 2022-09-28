@@ -1,9 +1,11 @@
-h1{
+h1,
+h2,
+h3,
+h4,
+h5{
     color: whitesmoke;
 }
-h2{
-    color: whitesmoke;
-}
+
 
 body {
     background-image: url(fondo.jpg);
@@ -25,3 +27,16 @@ p{
 .navbar a:hover{
     color: red;
 }
+
+
+.card-body img{
+    transition: 0.2s;
+}
+.card-body img:hover {
+transform: scale(1.1);
+}
+
+.card{
+    background-color: black;
+}
+
