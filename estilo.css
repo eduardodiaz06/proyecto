@@ -70,3 +70,8 @@ p {
     background-color: rgba(0, 0, 0, 0.897);
     
 }
+
+.bi-volume-up{
+    font-size: 30px;
+    color: chartreuse;
+}
