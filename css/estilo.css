@@ -1,0 +1,86 @@
+/* line 11, ../proyecto/scss/estilo.scss */
+body {
+  background-image: url(../fondo.jpg);
+  width: 100%;
+  padding-top: 105px;
+}
+
+/* line 17, ../proyecto/scss/estilo.scss */
+body p {
+  color: whitesmoke;
+}
+
+/* line 21, ../proyecto/scss/estilo.scss */
+body h1,
+body h2,
+body h3,
+body h4,
+body h5 {
+  color: whitesmoke;
+}
+
+/* line 29, ../proyecto/scss/estilo.scss */
+body .bi-volume-up {
+  font-size: 30px;
+  color: chartreuse;
+}
+
+/* line 34, ../proyecto/scss/estilo.scss */
+body .col-form-label {
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+/* line 41, ../proyecto/scss/estilo.scss */
+.navbar {
+  background-color: rgba(0, 0, 0, 0.897);
+}
+
+/* line 44, ../proyecto/scss/estilo.scss */
+.navbar a {
+  color: whitesmoke;
+  transition: 0.5s;
+}
+
+/* line 50, ../proyecto/scss/estilo.scss */
+.navbar a:hover {
+  color: red;
+}
+
+/* line 59, ../proyecto/scss/estilo.scss */
+.card-body {
+  background-color: black;
+}
+
+/* line 63, ../proyecto/scss/estilo.scss */
+.card-body img {
+  transition: 0.2s;
+}
+
+/* line 67, ../proyecto/scss/estilo.scss */
+.card-body img:hover {
+  transform: scale(1.1);
+}
+
+/* line 77, ../proyecto/scss/estilo.scss */
+footer .bi-facebook {
+  font-size: 30px;
+  color: blue;
+  margin: 10px;
+}
+
+/* line 83, ../proyecto/scss/estilo.scss */
+footer .bi-instagram {
+  font-size: 30px;
+  color: #a91ad4;
+  margin: 10px;
+}
+
+/* line 89, ../proyecto/scss/estilo.scss */
+footer .bi-twitter {
+  font-size: 30px;
+  color: #0c92a3;
+  margin: 10px;
+}
+
+/*# sourceMappingURL=estilo.css.map */

@@ -1,0 +1,95 @@
+//variables
+$colorLetra: whitesmoke;
+$colorFacebook: blue;
+$colorIg: rgb(169, 26, 212);
+$colorTw: rgb(12, 146, 163);
+$colorMenu: rgba(0, 0, 0, 0.897);
+//variables
+
+
+
+body {
+    background-image: url(../fondo.jpg);
+    width: 100%;
+    padding-top: 105px;
+
+
+p {
+    color: $colorLetra;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: $colorLetra;
+}
+
+.bi-volume-up {
+    font-size: 30px;
+    color: chartreuse;
+}
+
+.col-form-label {
+    color: $colorLetra;
+    font-size: 20px;
+}
+
+}
+
+.navbar {
+    background-color: $colorMenu;
+
+    a {
+        color: $colorLetra;
+        transition: 0.5s;
+
+    }
+
+    a:hover {
+        color: red;
+    }
+
+
+}
+
+
+
+.card-body {
+    background-color: black;
+
+
+    img {
+        transition: 0.2s;
+    }
+
+    img:hover {
+        transform: scale(1.1);
+    }
+
+}
+
+
+
+footer {
+
+    .bi-facebook {
+        font-size: 30px;
+        color: $colorFacebook;
+        margin: 10px;
+    }
+
+    .bi-instagram {
+        font-size: 30px;
+        color: $colorIg;
+        margin: 10px;
+    }
+
+    .bi-twitter {
+        font-size: 30px;
+        color: $colorTw;
+        margin: 10px;
+    }
+
+}
