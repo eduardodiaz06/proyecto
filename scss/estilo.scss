@@ -14,27 +14,27 @@ body {
     padding-top: 105px;
 
 
-p {
-    color: $colorLetra;
-}
+    p {
+        color: $colorLetra;
+    }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
-    color: $colorLetra;
-}
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        color: $colorLetra;
+    }
 
-.bi-volume-up {
-    font-size: 30px;
-    color: chartreuse;
-}
+    .bi-volume-up {
+        font-size: 30px;
+        color: chartreuse;
+    }
 
-.col-form-label {
-    color: $colorLetra;
-    font-size: 20px;
-}
+    .col-form-label {
+        color: $colorLetra;
+        font-size: 20px;
+    }
 
 }
 
@@ -62,6 +62,7 @@ h5 {
 
     img {
         transition: 0.2s;
+
     }
 
     img:hover {
