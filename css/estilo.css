@@ -50,33 +50,34 @@ body .col-form-label {
 /* line 59, ../proyecto/scss/estilo.scss */
 .card-body {
   background-color: black;
+  border-radius: 5px;
 }
 
-/* line 63, ../proyecto/scss/estilo.scss */
+/* line 64, ../proyecto/scss/estilo.scss */
 .card-body img {
   transition: 0.2s;
 }
 
-/* line 68, ../proyecto/scss/estilo.scss */
+/* line 70, ../proyecto/scss/estilo.scss */
 .card-body img:hover {
   transform: scale(1.1);
 }
 
-/* line 78, ../proyecto/scss/estilo.scss */
+/* line 80, ../proyecto/scss/estilo.scss */
 footer .bi-facebook {
   font-size: 30px;
   color: blue;
   margin: 10px;
 }
 
-/* line 84, ../proyecto/scss/estilo.scss */
+/* line 86, ../proyecto/scss/estilo.scss */
 footer .bi-instagram {
   font-size: 30px;
   color: #a91ad4;
   margin: 10px;
 }
 
-/* line 90, ../proyecto/scss/estilo.scss */
+/* line 92, ../proyecto/scss/estilo.scss */
 footer .bi-twitter {
   font-size: 30px;
   color: #0c92a3;
