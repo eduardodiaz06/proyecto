@@ -20,64 +20,74 @@ body h5 {
 }
 
 /* line 29, ../proyecto/scss/estilo.scss */
+body h2 {
+  font-size: 20px;
+}
+
+/* line 33, ../proyecto/scss/estilo.scss */
+body h3 {
+  font-size: 16px;
+}
+
+/* line 37, ../proyecto/scss/estilo.scss */
 body .bi-volume-up {
   font-size: 30px;
   color: chartreuse;
 }
 
-/* line 34, ../proyecto/scss/estilo.scss */
+/* line 43, ../proyecto/scss/estilo.scss */
 body .col-form-label {
   color: whitesmoke;
   font-size: 20px;
 }
 
-/* line 41, ../proyecto/scss/estilo.scss */
+/* line 50, ../proyecto/scss/estilo.scss */
 .navbar {
   background-color: rgba(0, 0, 0, 0.897);
 }
 
-/* line 44, ../proyecto/scss/estilo.scss */
+/* line 53, ../proyecto/scss/estilo.scss */
 .navbar a {
   color: whitesmoke;
   transition: 0.5s;
 }
 
-/* line 50, ../proyecto/scss/estilo.scss */
+/* line 59, ../proyecto/scss/estilo.scss */
 .navbar a:hover {
   color: red;
 }
 
-/* line 59, ../proyecto/scss/estilo.scss */
+/* line 68, ../proyecto/scss/estilo.scss */
 .card-body {
   background-color: black;
   border-radius: 5px;
 }
 
-/* line 64, ../proyecto/scss/estilo.scss */
+/* line 73, ../proyecto/scss/estilo.scss */
 .card-body img {
   transition: 0.2s;
 }
 
-/* line 70, ../proyecto/scss/estilo.scss */
+/* line 79, ../proyecto/scss/estilo.scss */
 .card-body img:hover {
   transform: scale(1.1);
 }
 
-/* line 80, ../proyecto/scss/estilo.scss */
+/* line 89, ../proyecto/scss/estilo.scss */
 footer .bi-facebook {
   font-size: 30px;
   color: blue;
   margin: 10px;
 }
 
-/* line 86, ../proyecto/scss/estilo.scss */
+/* line 95, ../proyecto/scss/estilo.scss */
 footer .bi-instagram {
   font-size: 30px;
   color: #a91ad4;
   margin: 10px;
 }
 
-/* line 92, ../proyecto/scss/estilo.scss */
+/* line 101, ../proyecto/scss/estilo.scss */
 footer .bi-twitter {
   font-size: 30px;
   color: #0c92a3;
