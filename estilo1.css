@@ -75,3 +75,7 @@ p {
     font-size: 30px;
     color: chartreuse;
 }
+
+#logint {
+    display: none;
+}
